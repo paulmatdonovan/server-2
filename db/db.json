@@ -1,0 +1,52 @@
+{
+  "menswear": [
+    {
+      "id": 1,
+      "title": "Short sleeve linen henley t shirt",
+      "price": 109.95,
+      "description": "An amazingly comfortable shirt to wear at home or for summer evening events.",
+      "category": "menswear",
+      "image": "https://s.alicdn.com/@sc04/kf/H6ba28b46080d4e6b911f0a5f782d5a9fi.jpg"
+    },
+    {
+      "id": 2,
+      "title": "100% linen shirt",
+      "price": 22.3,
+      "description": "Extremely comfortable 100% linen long sleeve shirt with turn down collar. Effortlessly create the casual style in summer or all year round.",
+      "category": " menswear ",
+      "image": "https://s.alicdn.com/@sc04/kf/H6902a706ed384b3e827d928cf0cc5b38m.jpg"
+    },
+    {
+      "id": 3,
+      "title": "100% linen Slim-fit pants",
+      "price": 55.99,
+      "description": "100% linen trousers in a contemporary style. In an understated off-white color, these trousers are perfect for work from home gents or if you want to add style to your casual wardrobe.",
+      "category": " menswear ",
+      "image": "https://s.alicdn.com/@sc04/kf/Ha34ffa510c9241ee904da9c658fafdb4y.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Casual 100% hemp trousers",
+      "price": 77.99,
+      "description": "Designed as a classic wardrobe staple in a bunch of everyday colours, you can wear these on the weekend, to work, and everywhere in between.",
+      "category": "men's clothing",
+      "image": "https://sc04.alicdn.com/kf/Hd41fd6a38b104d3dbe76a787e23d1282F/250291537/Hd41fd6a38b104d3dbe76a787e23d1282F.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Men's eco-friendly linen polo",
+      "price": 15.99,
+      "description": "Breathable, Sustainable 100% linen short sleeve.",
+      "category": "men's clothing",
+      "image": "https://sc04.alicdn.com/kf/H93e3f9abdafc476aab234de631b5ce54i/250291537/H93e3f9abdafc476aab234de631b5ce54i.jpg"
+    },
+    {
+      "id": 6,
+      "title": "100% linen coat with pockets",
+      "price": 15.99,
+      "description": "Bomber Jacket Linen.",
+      "category": "men's clothing",
+      "image": "https://sc04.alicdn.com/kf/H3de3e8d1f27444b4a850927a6569a5b2t/250291537/H3de3e8d1f27444b4a850927a6569a5b2t.jpg"
+    }
+  ]
+}
